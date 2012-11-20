@@ -9,6 +9,7 @@
 int main()
 {
 	puts("Hello World");
+	puts("Hello World Again");
 	return 0;
 }
 
